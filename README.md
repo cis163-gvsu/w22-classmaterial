@@ -17,7 +17,7 @@ of what is happening and the code and a more intentional approach.
 ### Helpful Links
 
 * [Syllabus](syllabus.md)
-* [Piazza](https://www.piazza.com/gvsu/winter2022/cis163-06/home) -- also [FAQ about Piazza](piazza-faq.md)
+* [Piazza](https://www.piazza.com/gvsu/winter2022/cis16306/home) -- also [FAQ about Piazza](piazza-faq.md)
 * [PrairieLearn](https://www.prairielearn.org/pl/course_instance/129006) - log-in
   using "Google" and use your GVSU gmail account
 
