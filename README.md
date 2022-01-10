@@ -47,7 +47,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  02  | 01/17 - 01/21 |  JUnit <br> Arrays | exam 1 | 
 |  03  | 01/24 - 01/28 |  Inhertance <br> UML/Dia <br> GUI <br> Debugging | lab 2 |
 |  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due (tentative) <br> lab 3|
-|  05  | 02/07 - 02/11 |  Exceptions, lambdas, streams| | project 2 assigned <br> exam 2 |
+|  05  | 02/07 - 02/11 |  Exceptions, lambdas, streams| project 2 assigned <br> exam 2 |
 |  06  | 02/14 - 02/18 |  recursion | lab 4 |  
 |  07  | 02/21 - 02/25 |  algorithm analysis | lab 5 |
 |  08  | 02/28 - 03/04 |  linked lists | project 2 due <br> exam 3 | 
