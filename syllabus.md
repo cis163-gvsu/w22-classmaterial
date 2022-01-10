@@ -11,8 +11,8 @@ Office Hours:
 
 Contact:
 
-* [Piazza](piazza.com/gvsu/winter2022/cis163/home) **preferred**
-* [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS241]) ^^^in almost all cases use Piazza
+* [Piazza](piazza.com/gvsu/winter2022/cis163-06/home) **preferred**
+* [erin.carrier@gvsu.edu](mailto:erin.carrier@gvsu.edu?subject=[CIS163]) ^^^in almost all cases use Piazza
 
 ## Course Description
 Programming methodology, design and analysis of algorithms, and an introduction to data structures. 
