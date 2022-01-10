@@ -152,6 +152,7 @@ This shift downward typically occurs at the end of the semester.  For example: 9
 could be an A, not just 94% and higher for an A.  The scale will never shift upward.
 For example: 88% is always at least a B+.)
 
+|     |    |    |    |
 | --- | --- | --- | --- |
 | A	 | 94% | C  | 73% |
 | A- | 90% | C-	| 70% |
