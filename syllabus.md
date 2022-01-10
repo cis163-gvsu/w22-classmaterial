@@ -33,7 +33,7 @@ will likely be redirected to be posted to Piazza and then
 answered there.  Piazza is available
 both web-based and as a phone app.
 
-Course Materials
+## Course Materials
 * Textbook: John Lewis, Peter DePasquale, and Joseph Chase, Java Foundations – Introduction
 to Program Design & Data Structures, 4th edition or 5th edition or 3rd edition, Addison Wesley
 
@@ -83,7 +83,7 @@ Academic integrity is taken very seriously and typically result in anywhere from
 * Can I seek help through sites like upwork? *No, this would generally be
   considered an academic integrity violation*
 * Can I have help from a tutor?  *You may seek help from a tutor, but the work
-  you submit for projects/labs in the end must be your own.
+  you submit for projects/labs in the end must be your own.*
 * Can I use sites like stackoverflow?  *Yes, this is allowed in this course,
   so long as you are not simply posting your entire problem and asking
   for a solution and that you do not look for or use a full solution to a large
@@ -134,7 +134,7 @@ See: https://www.cis.gvsu.edu/secondary-admission/
 * IMPORTANT: The instructor reserves the right to invoke the following: In order to pass this course with a grade of C or better, you must have an average of at least 60% in exams (tests, final exam, and Lab exam). 
 * Your grade in the course will be determined based on all the work assigned (see table below) in the course using the grading scale shown below.
 
-|   |   |
+| Item  | Percent of Overall Grade   |
 | ----- | ----- |
 | Programming Project 1	| 13% |
 | Programming Project 2 | 13% |
