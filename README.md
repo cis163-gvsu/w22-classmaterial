@@ -43,7 +43,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
-|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> Using an IDE <br> References | Project 1 assigned <br> lab1 |
+|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> Using an IDE <br> References | Project 1 assigned <br> [lab1](misc-files/lab1/vscode-setup.md) |
 |  02  | 01/17 - 01/21 |  JUnit <br> Arrays | exam 1 | 
 |  03  | 01/24 - 01/28 |  Inhertance <br> UML/Dia <br> GUI <br> Debugging | lab 2 |
 |  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due (tentative) <br> lab 3|
