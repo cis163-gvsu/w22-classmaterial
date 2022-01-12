@@ -41,7 +41,7 @@ You can either close and reopen or go up to "File" at the top and select "New Wi
 2. In `src`, renamge `App.java` to `Book.java`.
 3. Copy the contents of [Book.java](Book.java) into this file (replacing whatever
    was there).
-4. Create a new file named `BookTest.java` and copy the contents of [BookTest.java](BooKTest.java)
+4. Create a new file named `BookTest.java` and copy the contents of [BookTest.java](BookTest.java)
    into that file.
 
 ## Setup Unit Testing
