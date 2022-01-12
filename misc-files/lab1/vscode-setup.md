@@ -39,9 +39,9 @@ If you run on Linux), you'll have to install the parts separately:
 You can either close and reopen or go up to "File" at the top and select "New Window".
 1. Decide where you want to put it and give it whatever name you'd like.
 2. In `src`, renamge `App.java` to `Book.java`.
-3. Copy the contents of [Book.java](misc-files/lab1/Book.java) into this file (replacing whatever
+3. Copy the contents of [Book.java](Book.java) into this file (replacing whatever
    was there).
-4. Create a new file named `BookTest.java` and copy the contents of [BookTest.java](misc-files/lab1/BooKTest.java)
+4. Create a new file named `BookTest.java` and copy the contents of [BookTest.java](BooKTest.java)
    into that file.
 
 ## Setup Unit Testing
