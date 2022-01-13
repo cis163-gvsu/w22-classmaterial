@@ -43,7 +43,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
-|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> Wed: Types/Arrays/Testing [slides](lec-notes/lec02-recap.pdf) <br> Using an IDE <br> References | Project 1 assigned <br> [lab1](lab1.md) |
+|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> [Wed: Types/Arrays/Testing](lec-notes/lec02-recap.pdf) <br> Using an IDE <br> References | Project 1 assigned <br> [lab1](lab1.md) |
 |  02  | 01/17 - 01/21 |  JUnit <br> Arrays | lab 2| 
 |  03  | 01/24 - 01/28 |  Inhertance <br> UML/Dia <br> GUI <br> Debugging | test 1 |
 |  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due (tentative) <br> lab 3|
