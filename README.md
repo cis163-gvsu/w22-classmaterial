@@ -44,18 +44,18 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
 |  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> Wed: Types/Arrays/Testing [slides](lec-notes/lec02-recap.pdf) <br> Using an IDE <br> References | Project 1 assigned <br> [lab1](lab1.md) |
-|  02  | 01/17 - 01/21 |  JUnit <br> Arrays | exam 1 | 
-|  03  | 01/24 - 01/28 |  Inhertance <br> UML/Dia <br> GUI <br> Debugging | lab 2 |
+|  02  | 01/17 - 01/21 |  JUnit <br> Arrays | lab 2| 
+|  03  | 01/24 - 01/28 |  Inhertance <br> UML/Dia <br> GUI <br> Debugging | test 1 |
 |  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due (tentative) <br> lab 3|
-|  05  | 02/07 - 02/11 |  Exceptions, lambdas, streams| project 2 assigned <br> exam 2 |
+|  05  | 02/07 - 02/11 |  Exceptions, lambdas, streams| project 2 assigned <br> test 2 |
 |  06  | 02/14 - 02/18 |  recursion | lab 4 |  
 |  07  | 02/21 - 02/25 |  algorithm analysis | lab 5 |
-|  08  | 02/28 - 03/04 |  linked lists | project 2 due <br> exam 3 | 
+|  08  | 02/28 - 03/04 |  linked lists | project 2 due <br> test 3 | 
 |      | 03/07 - 03/11 | No Class (Spring Break)  |  |
 |  09  | 03/14 - 03/18 |  linked lists| lab 6 |  
 |  10  | 03/21 - 03/25 |  linked lists | lab 7 | 
-|  11  | 03/28 - 04/01 |  doubly linked lists, stacks | exam 4 |
+|  11  | 03/28 - 04/01 |  doubly linked lists, stacks | test 4 |
 |  12  | 04/04 - 04/08 |  stacks and queues | lab 8 |
 |  13  | 04/11 - 04/15 |  searching and sorting | project 3 due (no late projects!) <br> lab 9 |
-|  14  | 04/18 - 04/22 |  catch-up/review | exam 5 | 
+|  14  | 04/18 - 04/22 |  catch-up/review | test 5 | 
 |  15  | 04/25-04/29 | FINAL EXAM Saturday, April 23, 2022 |  |
