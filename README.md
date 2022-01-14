@@ -43,10 +43,10 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 
 | Week | Date          | Topics | TODOs |
 | ---- | ------------- | ------ | --------- |
-|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> [Wed: Types/Arrays/Testing](lec-notes/lec02-recap.pdf) <br> [JUnit Testing](lec-notes/lec03-recap.pdf) | Project 1 assigned <br> [lab1](misc-files/lab1/lab1.md) |
+|  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> [Wed: Types/Arrays/Testing](lec-notes/lec02-recap.pdf) <br> [JUnit Testing](lec-notes/lec03-recap.pdf) | [Project 1 assigned](https://www.prairielearn.org/pl/course_instance/129006) <br> [lab1](misc-files/lab1/lab1.md) |
 |  02  | 01/17 - 01/21 |  References <br> ArrayLists | lab 2| 
 |  03  | 01/24 - 01/28 |  Inheritance <br> UML/Dia <br> GUI <br> Debugging | test 1 |
-|  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due (tentative) <br> lab 3|
+|  04  | 01/31 - 02/04 |  Inheritance, polymorphism, interfaces | Project 1 due @ 3pm on Feb. 4 <br> lab 3|
 |  05  | 02/07 - 02/11 |  Exceptions, lambdas, streams| project 2 assigned <br> test 2 |
 |  06  | 02/14 - 02/18 |  recursion | lab 4 |  
 |  07  | 02/21 - 02/25 |  algorithm analysis | lab 5 |
