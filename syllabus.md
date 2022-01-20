@@ -1,4 +1,4 @@
-# CIS 241 Syllabus
+# CIS 163 Syllabus
 
 ## Instructor Information
 Instructor: Dr. Erin Carrier
