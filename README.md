@@ -45,7 +45,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 | ---- | ------------- | ------ | --------- |
 |  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> [Wed: Types/Arrays/Testing](lec-notes/lec02-recap.pdf) <br> [Fri: JUnit Testing](lec-notes/lec03-recap.pdf) | [Project 1 assigned](https://www.prairielearn.org/pl/course_instance/129006) <br> [lab1](misc-files/lab1/lab1.md) |
 |  02  | 01/17 - 01/21 | [Wed: 2D arrays/ArrayLists/toString](lec-notes/lec04-recap.pdf) <br> [Fri: static vs non-static/references](lec-notes/lec05-recap.pdf) | [lab 2](https://www.prairielearn.org/pl/course_instance/129006/assessment/2316732) | 
-|  03  | 01/24 - 01/28 |  [File IO/Object Casting](lec-notes/lec06-fileio-equals.pdf) <br> [File IO Demo Code](misc-files/FileIODemo.java) <br> Inheritance | test 1 |
+|  03  | 01/24 - 01/28 |  [File IO/Object Casting](lec-notes/lec06-fileio-equals.pdf) <br> [File IO Demo Code](misc-files/lec-demos/FileIODemo.java) <br> Inheritance | test 1 |
 |  04  | 01/31 - 02/04 |  UML/Dia, polymorphism, interfaces | Project 1 due @ 3pm on Feb. 4 <br> lab 3|
 |  05  | 02/07 - 02/11 |  GUI, lambdas, streams| project 2 assigned <br> test 2 |
 |  06  | 02/14 - 02/18 |  recursion | lab 4 |  
