@@ -46,11 +46,11 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  01  | 01/10 - 01/14 |  162 Review (Chapters 1-5) <br> [Wed: Types/Arrays/Testing](lec-notes/lec02-recap.pdf) <br> [Fri: JUnit Testing](lec-notes/lec03-recap.pdf) | [Project 1 assigned](https://www.prairielearn.org/pl/course_instance/129006) <br> [lab1](misc-files/lab1/lab1.md) |
 |  02  | 01/17 - 01/21 | [Wed: 2D arrays/ArrayLists/toString](lec-notes/lec04-recap.pdf) <br> [Fri: static vs non-static/references](lec-notes/lec05-recap.pdf) | [lab 2](https://www.prairielearn.org/pl/course_instance/129006/assessment/2316732) | 
 |  03  | 01/24 - 01/28 |  [Mon: File IO/Object Casting](lec-notes/lec06-fileio-equals.pdf) <br> [Mon: File IO Demo Code](misc-files/lec-demos/FileIODemo.java) <br> [Wed: Inheritance](lec-notes/lec07-inheritance.pdf) <br> [Fri: Interfaces](lec-notes/lec08-interfaces.pdf) | test 1 |
-|  04  | 01/31 - 02/04 |  [Mon: polymorphism](lec-notes/lec09-polymorphism.pdf) <br> [Mon/Wed: Polymoprhism/Inheritance Demo Code](misc-files/lec-demos/inheritance) <br> [Wed: UML](lec-notes/lec10-uml.pdf) <br> GUI | Project 1 due @ 3pm on Feb. 4 <br> [lab 3](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317081) |
-|  05  | 02/07 - 02/11 |  exceptions, lambdas, streams | project 2 assigned <br> test 2 |
+|  04  | 01/31 - 02/04 |  [Mon: polymorphism](lec-notes/lec09-polymorphism.pdf) <br> [Mon/Wed: Polymoprhism/Inheritance Demo Code](misc-files/lec-demos/inheritance) <br> [Wed: UML](lec-notes/lec10-uml.pdf) <br> [Fri: gui](lec-notes/lec11-gui.pdf) <br> [Fri: gui demo code](misc-files/lec-demos/gui) | Project 1 due @ 3pm on Feb. 4 <br> [lab 3](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317081) |
+|  05  | 02/07 - 02/11 |  exceptions, lambdas, streams | Project 2 assigned <br> test 2 |
 |  06  | 02/14 - 02/18 |  recursion | lab 4 |  
 |  07  | 02/21 - 02/25 |  algorithm analysis | lab 5 |
-|  08  | 02/28 - 03/04 |  linked lists | project 2 due <br> test 3 | 
+|  08  | 02/28 - 03/04 |  linked lists | Project 2 due <br> Project 3 assigned (tentative) <br> test 3 | 
 |      | 03/07 - 03/11 | No Class (Spring Break)  |  |
 |  09  | 03/14 - 03/18 |  linked lists| lab 6 |  
 |  10  | 03/21 - 03/25 |  linked lists | lab 7 | 
