@@ -31,7 +31,6 @@ public class Mystery {
     }
 }
 ```
-
 What is the output of this code?
 
 Line 1:
