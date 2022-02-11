@@ -1,4 +1,4 @@
-# Tracing Recursive Code
+### Tracing Recursive Code
 Consider the following code:
 
 ```
@@ -33,8 +33,13 @@ public class Mystery {
 What is the output of this code?
 
 Line 1:
+
 Line 2:
+
 Line 3:
+
 Line 4:
+
 Line 5:
+
 Line 6:
