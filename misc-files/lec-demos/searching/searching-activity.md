@@ -8,9 +8,11 @@ This process is called "searching".
 
 ## Task 1
 
-The previous code we looked at was called "linear search".
-It just walks down the array, from start to end, looking
-for the desired element.  It does not care about the order
+Think about the idea of searching and how we can 
+implement it -- the most obvous solution (and probably the
+one that comes to mind is to just walk down an array, from start to end, looking
+for the desired element.  This is known as "linear search".
+It does not care about the order
 of the elements in the array.
 
 If the input array was sorted, is there a way
