@@ -52,10 +52,10 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  07  | 02/21 - 02/25 | [Mon: lambdas/streams](lec-notes/lec18-collections-streams-lambdas.pdf) <br> [Streams Demo Code](misc-files/lec-demos/streams/Car.java) <br> [Wed: searching worksheet](misc-files/lec-demos/searching/searching-activity.md) <br> [Fri: streams activity](misc-files/lec-demos/streams/stream-activity.md) <br> [Person/Student code for streams activity](misc-files/lec-demos/streams) | [lab 6](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317634) |
 |  08  | 02/28 - 03/04 |  [Mon: algorithm analysis](lec-notes/lec21-algorithm-analysis.pdf) <br> [Mon: streams practice](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317719) <br> [Wed: selection sort ](lec-notes/lec22-sorting-selection.pdf) <br> [Fri: insertion and bubble sort](lec-notes/lec23-sorting-insertion-bubble.pdf) | Project 2 due @ 11:59pm on Sunday, Mar 13 <br> test 3 | 
 |      | 03/07 - 03/11 | No Class (Spring Break)  |  |
-|  09  | 03/14 - 03/18 | [Mon: linked lists](lec24-linked-list.pdf) | Project 3 assigned <br> lab 6 |  
-|  10  | 03/21 - 03/25 |  linked lists | lab 7 | 
+|  09  | 03/14 - 03/18 | [Mon/Wed: linked lists](lec-notes/lec24-linked-list.pdf) <br> [Fri: proj3 intro/complexity](lec-notes/lec25-code-complexity.pdf) | [Project 3 assigned](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317973) <br> [lab 8](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317916) |  
+|  10  | 03/21 - 03/25 |  [Mon/Wed: mergesort and quicksort](lec-notes/lec26-sorting.pdf) | [lab 9](https://www.prairielearn.org/pl/course_instance/129006/assessment/2318088) | 
 |  11  | 03/28 - 04/01 |  doubly linked lists, stacks | test 4 |
 |  12  | 04/04 - 04/08 |  stacks and queues | lab 8 |
-|  13  | 04/11 - 04/15 |  searching and sorting | project 3 due (no late projects!) <br> lab 9 |
+|  13  | 04/11 - 04/15 |  searching and sorting | project 3 due Monday, April 11 @ 3:00pm <br> lab 9 |
 |  14  | 04/18 - 04/22 |  catch-up/review | test 5 | 
 |  15  | 04/25-04/29 | FINAL EXAM Saturday, April 23, 2022 |  |
