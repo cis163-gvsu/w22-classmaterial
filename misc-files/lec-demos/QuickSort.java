@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class App {
+public class QuickSort {
     public static void quicksort(int[] arr) {
         quicksortHelper(arr, 0, arr.length-1);
     }
