@@ -56,6 +56,6 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  10  | 03/21 - 03/25 |  [Mon/Wed: mergesort and quicksort](lec-notes/lec26-sorting.pdf) | [lab 9](https://www.prairielearn.org/pl/course_instance/129006/assessment/2318088) | 
 |  11  | 03/28 - 04/01 | [Mon: QuickSort Code](misc-files/lec-demos/QuickSort.java) <br> queues | test 4 |
 |  12  | 04/04 - 04/08 |  stacks/queues | lab 8 |
-|  13  | 04/11 - 04/15 |  stacks/queues | project 3 due Tuesday, April 12 @ 5:00pm <br> lab 9 |
+|  13  | 04/11 - 04/15 |  stacks/queues | project 3 due Tuesday, April 12 @ 5:00pm <br> project 3 late deadline Friday, April 15 @ 3:00pm <br> lab 9 |
 |  14  | 04/18 - 04/22 |  catch-up/review | test 5 | 
 |  15  | 04/25-04/29 | FINAL EXAM Saturday, April 23, 2022 |  |
