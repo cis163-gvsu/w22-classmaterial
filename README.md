@@ -55,7 +55,7 @@ as we go with slides and due dates.  The schedule is tentative and subject to ch
 |  09  | 03/14 - 03/18 | [Mon/Wed: linked lists](lec-notes/lec24-linked-list.pdf) <br> [Fri: proj3 intro/complexity](lec-notes/lec25-code-complexity.pdf) | [Project 3 assigned](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317973) <br> [lab 8](https://www.prairielearn.org/pl/course_instance/129006/assessment/2317916) |  
 |  10  | 03/21 - 03/25 |  [Mon/Wed: mergesort and quicksort](lec-notes/lec26-sorting.pdf) | [lab 9](https://www.prairielearn.org/pl/course_instance/129006/assessment/2318088) | 
 |  11  | 03/28 - 04/01 | [Mon: QuickSort Code](misc-files/lec-demos/QuickSort.java) <br> queues | test 4 |
-|  12  | 04/04 - 04/08 |  stacks/queues | lab 8 |
-|  13  | 04/11 - 04/15 |  stacks/queues | project 3 due Tuesday, April 12 @ 5:00pm <br> project 3 late deadline Friday, April 15 @ 3:00pm <br> lab 9 |
+|  12  | 04/04 - 04/08 |  stacks/queues | [lab 10](https://www.prairielearn.org/pl/course_instance/129006/assessment/2318309) |
+|  13  | 04/11 - 04/15 | [Wed: hashmap](lec-notes/lec35-hashmap.pdf) | project 3 due Tuesday, April 12 @ 5:00pm <br> project 3 late deadline Friday, April 15 @ 3:00pm <br> [lab 11](https://www.prairielearn.org/pl/course_instance/129006/assessment/2318407) |
 |  14  | 04/18 - 04/22 |  catch-up/review | test 5 | 
 |  15  | 04/25-04/29 | FINAL EXAM Saturday, April 23, 2022 |  |
