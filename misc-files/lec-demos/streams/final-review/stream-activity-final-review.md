@@ -12,6 +12,8 @@
 
 
 
+
+
 ```
 
 2. Use a stream and lambda(s) to create a list of
@@ -24,10 +26,18 @@
 
 
 
+
+
+
+
 ```
 3. Use a stream to create a list with doors > 2
    sorted by their value.
 ```
+
+
+
+
 
 
 
@@ -48,11 +58,16 @@
 
 
 
+
+
+
 ```
 
 5. Use a stream to create a list with the colors
    capitalized and the values decreased by 1000.
 ```
+
+
 
 
 
